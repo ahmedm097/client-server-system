@@ -1,6 +1,4 @@
 # Author: Minas Spetsakis
-# Date: June 2021
-# Description: Skeleton to Assignment II (Threaded simulator)
 
 simul: simul.o queue.o error.o
 	gcc simul.o queue.o error.o -pthread -lc -o simul
