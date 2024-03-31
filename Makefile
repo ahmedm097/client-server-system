@@ -1,5 +1,3 @@
-# Author: Minas Spetsakis
-
 simul: simul.o queue.o error.o
 	gcc simul.o queue.o error.o -pthread -lc -o simul
 
