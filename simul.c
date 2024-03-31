@@ -1,6 +1,4 @@
 /* Mohammed Ahmed 
-*  Student Number: 214396428
-*  Date: Wednesday July 14,2021
 *
 * The program is a probablistic simulation of a client server system. 
 * n amount of clients and servers are created. The client generates random amount of jobs and place
